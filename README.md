@@ -1,4 +1,4 @@
-# Customer REST api
+# Spring Books REST api
 
 ## Request
 Management has requested that we expose our book database with a RESTfull api so that they can 
