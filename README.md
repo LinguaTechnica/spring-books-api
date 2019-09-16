@@ -33,4 +33,9 @@ CREATE TABLE `books` (
 1. Create a MySQL db named 'springbooks_db'
 1. Note: this is a 'gradle' project so your ide must support gradle
 1. Implement the controller, service, entity and repository for `Book`.
-1. OPTIONAL: Provide tests.
+
+*NOTE: Write your tests first!*
+
+## Resources
+[Test Driven Development with Spring Boot](https://www.youtube.com/watch?v=s9vt6UJiHg4)
+
